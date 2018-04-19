@@ -237,13 +237,13 @@ that is for the class variable `holiday`, the setter will be `setHoliday`, while
 
 
 
-#Exercise
+# Exercise
 
 Below are tasks that you must complete to demonstrate your understanding of stripes based on this lesson.
 
 
 
-##Task 1
+## Task 1
 
 Modify the action bean `ke.co.technovation.stripes.lessons.action.HolidayListingActionBean` to service requests for the following holidays;
 
@@ -255,13 +255,13 @@ Modify the action bean `ke.co.technovation.stripes.lessons.action.HolidayListing
 (These are actual holidays with dates. Google them and have the service return the actual dates)
 
 
-##Task 2
+## Task 2
 
 * Create a new action bean called "Calculator", whose url is "summationService.action"
 * The calculator must be able to accept two digits, add them together and return the result.
 
 
-##Task 3
+## Task 3
 
 clean the project by typing `mvn clean`, zip the project and send to admin@technovation.co.ke for evaluation.
 
