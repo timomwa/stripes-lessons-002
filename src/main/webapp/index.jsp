@@ -14,17 +14,20 @@
 	<p>By the end of this exercise, you will;</p>
 
 	<ol>
-		<li>Be able to understand what the stripes framework is.</li>
-		<li>Understand stripe's configuration via web.xml</li>
-		<li>Understand how to use the <b><i>ActionResolver.Packages</i></b>
-			parameter (in web.xml) for Action Beans auto discovery.
+		<li>Understand the workings of JPA and how JPA layer talks to databases.</li>
+		<li>Understand JPA configuration & Data sources (persistence.xml)</li>
+		<li>Understand what JPA Entities are and map them to database tables. (ORM)</li>
+		<li>JPA Entities</li>
+		<li>Understand JPA Query Language (QL) and JPA's Entity Manager
+			<ul>
+				<li>Be able to read from the database via JPA</li>
+				<li>Be able to write data into the database via JPA</li>
+			</ul>
 		</li>
-		<li>Understand the concept of <b><i>ActionBeans</i></b></li>
-		<li>Understand Stripe's ActionBean default URL binding.</li>
-		<li>Be able to override the default Stripe's Action Bean URL
-			binding by using the <b><i>@UrlBinding</i></b> annotation.
-		</li>
-		<li>Passing parameters to Action Beans</li>
+		<li>Understand DAOs (Data Access Objects)</li>
+		<li>Understand how to pass/create objects via stripes</li>
 	</ol>
+	
+   
 </body>
 </html>
